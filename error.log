@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tue 11 Jan 2022 09:52:50 PM CST
 DHDTopic沒有要更新的資料到本地端
 [topticData_error1] 4列的"聞法(七覺支)"項目不在佛醫主題中 (jsonTopic.py)
@@ -111,3 +112,7 @@ DHDTopic沒有要更新的資料到本地端
 [topticData_error1] 922列的"念安般"項目不在佛醫主題中 (jsonTopic.py)
 [topticData_error1] 922列的"念安般"項目不在佛醫主題中 (jsonTopic.py)
 DHDTopic git push成功，資料已經更新到Github上
+=======
+Tue 11 Jan 2022 09:52:06 PM CST
+DHDTopic沒有要更新的資料到本地端
+>>>>>>> de308cc2e13951a201bd33abd7e47af7781aa576
